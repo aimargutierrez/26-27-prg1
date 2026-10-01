@@ -1,1 +1,2 @@
-este es el primer archivo, no se que mas poner.
+este es el primer archivo, no se que mas poner."texto modificado del archivo 1" 
+"texto modificado del archivo 1" 
